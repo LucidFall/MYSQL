@@ -161,7 +161,7 @@ END$$
 DELIMITER ;
 ```
 
-+ add tock to an existing product
++ add stock to an existing product
 ```sql
 DELIMITER $$
 
@@ -179,3 +179,4 @@ END$$
 
 DELIMITER ;
 ```
+
