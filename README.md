@@ -1,4 +1,7 @@
 # Demonstration of sql skills
+
+The database_creating sql file create the database the following code is working on. (generated with MySQLWorkbench forward engineering on my EER diagram)
+
 The following is the demonstration of my sql skills (triggers, events and stored procedures). The database is aimed to store customer, product in stock and payment informations. Which has the following table and its functionality specified below:
 
 + customers: this contains basic customer information with points recorded
